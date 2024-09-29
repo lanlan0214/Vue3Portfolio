@@ -1,25 +1,20 @@
-# my-vue-project
+# 歡迎來到我的前端作品集
 
-## Project setup
-```
-npm install
-```
+在這裡，您可以看到我在前端開發中使用的各種框架和技術。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 使用的框架與技術
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Vue.js 3** - 作為核心的前端框架，提供響應式和組件化的開發模式。
+- **Vue Router** - 用於頁面導航，實現單頁應用 (SPA) 的路由功能。
+- **Tailwind CSS** - 實用的 CSS 框架，提供快速的樣式設定，讓開發更加高效。
+- **LocalStorage** - 用於保存使用者的待辦事項，使數據在頁面重新整理後依然存在。
+- **Fetch API** - 用於向 OpenWeather API 發送請求並獲取天氣數據。
+- **JavaScript (ES6+)** - 使用現代 JavaScript 語法來撰寫程式碼，包含箭頭函數、模板字串、解構賦值等特性。
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 作品集內容
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue3Portfolio
+- 📋 **Todo List** - 一個簡單的待辦事項清單，能夠新增、刪除和標記完成項目，並且資料能夠在瀏覽器中保存。
+- 🌦 **天氣查詢** - 通過 OpenWeather API 查詢指定城市的天氣資訊。
+- 💡 **響應式設計** - 展示了如何使用 Tailwind CSS 構建一個適應不同裝置的頁面。
+
+感謝您的瀏覽，請點擊上方導航連結來查看不同的範例！
